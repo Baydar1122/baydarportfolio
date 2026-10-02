@@ -1,0 +1,59 @@
+[
+  {
+    "id": "manual-zyphr-labs",
+    "name": "zyphr-labs",
+    "title": "Zyphr Labs",
+    "description": "A digital agency founded by Baydar Ahmed delivering custom web platforms, modern user interfaces, and scalable client solutions.",
+    "featured": true,
+    "pinned": true,
+    "role": "Founder",
+    "year": "2026",
+    "topics": ["Web Development", "UI Design", "Digital Agency", "Client Engineering"],
+    "html_url": "https://github.com/Baydar1122",
+    "homepage": "https://zyphrlabs.dev",
+    "source": "manual",
+    "details": {
+      "whatItIs": "Zyphr Labs is a digital agency founded by Baydar Ahmed, dedicated to delivering functional, scalable, and visually polished digital web products for clients.",
+      "whatIBuilt": "Established core agency direction, component architecture guidelines, and client project delivery pipelines.",
+      "whatILearned": "Gained real-world experience in client communication, project management, and aligning technical stack choices with real-world business constraints."
+    }
+  },
+  {
+    "id": "manual-pro-pk",
+    "name": "pro-pk",
+    "title": "Pro-pk",
+    "description": "A full-stack Next.js, Prisma ORM, and TypeScript web application with structured database models and developer tooling.",
+    "featured": true,
+    "pinned": true,
+    "role": "Creator & Full-Stack Developer",
+    "year": "2026",
+    "topics": ["TypeScript", "Next.js", "Prisma", "PostCSS", "Database Design"],
+    "html_url": "https://github.com/Baydar1122/Pro-pk",
+    "homepage": null,
+    "source": "manual",
+    "details": {
+      "whatItIs": "Pro-pk is a full-stack web application built using Next.js, Prisma ORM, and TypeScript. The repository incorporates modern developer tooling including PostCSS and ESLint for code quality.",
+      "whatIBuilt": "Configured project architecture, type-safe database schemas with Prisma ORM, and integrated automated build and linting pipelines.",
+      "whatILearned": "Deepened understanding of modern TypeScript application design, relational schema modeling with Prisma, and leveraging modern front-end build tools for rapid iteration."
+    }
+  },
+  {
+    "id": "manual-ict-shoe",
+    "name": "ICT-THEORY-AND-LAB-FINAL-PROJECT",
+    "title": "Walk with Confidence (ICT Footwear Platform)",
+    "description": "A university final project featuring a multi-page HTML/CSS website with product galleries, reviews, and order form structures.",
+    "featured": true,
+    "pinned": false,
+    "role": "Team Co-Developer",
+    "year": "2026",
+    "topics": ["HTML5", "CSS3", "Semantic Web", "Form Design"],
+    "html_url": "https://github.com/Baydar1122/ICT-THEORY-AND-LAB-FINAL-PROJECT",
+    "homepage": null,
+    "source": "manual",
+    "details": {
+      "whatItIs": "A multi-page website developed for the university ICT Theory & Lab final project. Themed around modern footwear, it includes home, about, review, product table, and order form pages.",
+      "whatIBuilt": "Designed responsive semantic HTML layouts, pure CSS styling rules, image galleries, and structured table/form elements.",
+      "whatILearned": "Solidified core web fundamentals, cross-page navigation flow, pure CSS layout techniques, and collaborative Git revision management."
+    }
+  }
+]
