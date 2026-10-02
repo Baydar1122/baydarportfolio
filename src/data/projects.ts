@@ -2,7 +2,7 @@ import manualProjects from './projects.manual.json';
 import generatedProjects from './projects.generated.json';
 
 export interface ProjectItem {
-  id: string;
+  id: string | number;
   name: string;
   title: string;
   description: string;
